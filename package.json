@@ -19,7 +19,8 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.14"
   },
   "_moduleAliases": {
     "@database": "database",
